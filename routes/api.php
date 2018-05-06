@@ -13,8 +13,8 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::get('anjing', function() {
+Route::get('fuck', function() {
     return [
-        'message' => 'ini adalah anjing',
+        'message' => 'ini adalah fuck',
     ];
 });
